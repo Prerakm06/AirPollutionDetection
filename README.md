@@ -7,8 +7,6 @@
 * Built using **AWS SageMaker** and **Scikit-learn**, the system uses tested ML models to deliver reliable and real-time predictions.
 * This project is for **educational and non-commercial use** only.
 
-![Air Pollution Detection](Images)
-
 ## The Problem
 * **NO₂** is a highly reactive pollutant with severe impacts on **human health** and the **environment**, including:
   * Respiratory inflammation
